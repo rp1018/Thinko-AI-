@@ -1,0 +1,2 @@
+export NVIDIA_API_KEY="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"
+python app.py
